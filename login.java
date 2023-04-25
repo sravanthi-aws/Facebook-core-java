@@ -1,3 +1,12 @@
-this is a aws class
-this class have 30 people
-hai this sravanthi
+class Main {
+
+  public static void main(String[] args) {
+    
+    int first = 10;
+    int second = 20;
+
+    // add two numbers
+    int sum = first + second;
+    System.out.println(first + " + " + second + " = "  + sum);
+  }
+}
